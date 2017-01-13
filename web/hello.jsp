@@ -11,7 +11,7 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>Sample Spring Application JSP Page</h1>
+         <h1>Sample Application JSP Page</h1>
       </td>
     </tr>
   </table>
