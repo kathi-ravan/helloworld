@@ -5,7 +5,7 @@
   <property name="app.version"   value="1.1-dev"/>
   <property name="tcserver.home" value="C:\Users\kathiravan.ilango\Pictures\Apache\apache-tomcat-8.5.9-windows-x64\apache-tomcat-8.5.9" />
   <property name="work.home"    value="${basedir}/work"/>
-  <property name="dist.home"     value="${tcserver.home}/dist"/>
+  <property name="dist.home"     value="${tcserver.home}/webapps"/>
   <property name="src.home"      value="${basedir}/src"/>
   <property name="web.home"      value="${basedir}/web"/>
 
