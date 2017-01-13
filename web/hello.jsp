@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Sample ddd Application JSP Page</title>
+    <title>Sample sss Application JSP Page</title>
   </head>
 
   <body bgcolor=white>
